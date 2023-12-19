@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithishmathematics
+- 👋 Hi, I’m @nithish
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
